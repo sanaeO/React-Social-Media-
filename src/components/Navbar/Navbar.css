@@ -1,0 +1,6 @@
+.navbar input{
+ color:#000;
+}
+.navbar input:focus{
+    outline : none;
+}
